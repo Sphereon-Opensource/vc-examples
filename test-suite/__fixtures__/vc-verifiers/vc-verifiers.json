@@ -3,5 +3,7 @@
     "https://univerifier.io/api/verifier/credentials",
     "https://verifier.interop.digitalbazaar.com/verifier/credentials",
     "http://api.neo-flow.com/verifier/credentials",
-    "https://verifier.sandbox.trustbloc.dev/verifier/credentials"
+    "https://verifier.sandbox.trustbloc.dev/verifier/credentials",
+    "http://svip-verifier.ocs-support.com/api/verifier/credentials"
+
 ]
